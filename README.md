@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Ana
 
-I'm a Web Designer ☕
+I'm a Web Developer ☕
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeanaaa&show_icons=true&theme=transparent)
 
