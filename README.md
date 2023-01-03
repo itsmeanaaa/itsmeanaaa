@@ -40,11 +40,11 @@ I'm a Web Designer.
   
 
 <a href="https://twitter.com/imsuperana_#gh-light-mode-only">
-<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/twitter/follow/imsuperana_?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
-<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<a href="https://twitter.com/imsuperana_#gh-dark-mode-only">
+<img src="https://img.shields.io/twitter/follow/imsuperana_?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 3 -->
