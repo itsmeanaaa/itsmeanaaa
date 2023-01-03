@@ -33,6 +33,15 @@ I'm a Web Designer.
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 
+<!-- Light Mode -->
+<a href="https://open.spotify.com/user/12141598168?si=1d5f420c9d8d468d#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://open.spotify.com/user/12141598168?si=1d5f420c9d8d468d#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+
 </div>
 
 
