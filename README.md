@@ -6,7 +6,6 @@ I'm a Web Developer ☕
 
 https://anaxcamille.github.io/Porfolio/ - Please check out my OLD Porfolio Still Working on the new one 💤
 
-
 <!-- Social button 1 -->
 <!-- Light Mode -->
 <a href="https://open.spotify.com/user/12141598168?si=1d5f420c9d8d468d#gh-light-mode-only">
@@ -43,7 +42,6 @@ https://anaxcamille.github.io/Porfolio/ - Please check out my OLD Porfolio Still
 <img src="https://img.shields.io/badge/Spotify/follow/imsuperana_?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
   </a>
 &nbsp;
-
 </div>
 
 
