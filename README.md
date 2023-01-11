@@ -4,7 +4,7 @@ I'm a Web Developer ☕
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeanaaa&show_icons=true&theme=transparent)
 
-https://itsmeanaaa.github.io/Porfolio/ - Please check out my OLD Porfolio Still Working on the new one 💤
+
 
 <!-- Social button 1 -->
 <!-- Light Mode -->
