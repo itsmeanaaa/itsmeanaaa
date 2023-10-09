@@ -19,21 +19,21 @@ I'm a Web Developer ☕
 
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://www.instagram.com/imsuperana_/#gh-light-mode-only">
+<a href="https://www.instagram.com/anahatesuu/#gh-light-mode-only">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
 <a href="https://www.instagram.com/imsuperana_/#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
-<a href="https://twitter.com/imsuperana_#gh-light-mode-only">
+<a href="https://twitter.com/anahatesuu#gh-light-mode-only">
 <img src="https://img.shields.io/twitter/follow/imsuperana_?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 
 <!-- Social button 3 -->
 <!-- Light Mode -->
 <!-- Dark Mode -->
-<a href="https://twitter.com/imsuperana_#gh-dark-mode-only">
+<a href="https://twitter.com/anahatesuu#gh-dark-mode-only">
 <img src="https://img.shields.io/twitter/follow/imsuperana_?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
