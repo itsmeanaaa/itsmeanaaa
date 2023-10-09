@@ -19,7 +19,7 @@ I'm a Web Developer ☕
 
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://www.instagram.com/anahatesuu/#gh-light-mode-only">
+<a href="https://www.instagram.com/anahatesuu/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
