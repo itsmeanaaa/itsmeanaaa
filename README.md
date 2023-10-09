@@ -2,7 +2,6 @@
 
 I'm a Front-end web developer and I like coffee ☕
 
-my porfolio is still under development :3 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeanaaa&show_icons=true&theme=transparent)
 
 
